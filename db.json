@@ -1,0 +1,43 @@
+{
+    "bg": "data:image/png;base64,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",
+    "title": "Quiz da Seleção Brasileira",
+    "description": "Teste os seus conhecimentos com a seleção brasileira.",
+    "questions": [
+        {
+            "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+            "title": "Como fazer um seletor por id via CSS?",
+            "description": "Essa é pra aquecer",
+            "answer": 2,
+            "alternatives": [
+                ".elemento",
+                "*elemento",
+                "#elemento",
+                "%elemento"
+            ]
+        },
+        {
+            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+            "title": "Como fazer um background gradiente com css?",
+            "description": "Faz tempo em haha",
+            "answer": 0,
+            "alternatives": [
+                "background: linear-gradient(#e66465, #9198e5);",
+                "background: gradient(#e66465, #9198e5);"
+            ]
+        }
+    ],
+    "external": [
+        ""
+    ],
+    "theme": {
+        "colors": {
+            "primary": "#0d47a1",
+            "secondary": "#29b6f6",
+            "mainBg": "#171B35",
+            "contrastText": "#FFFFFF",
+            "wrong": "#FF5722",
+            "success": "#4CAF50"
+        },
+        "borderRadius": "4px"
+    }
+}
