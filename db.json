@@ -4,25 +4,26 @@
     "description": "Teste os seus conhecimentos com a seleção brasileira.",
     "questions": [
         {
-            "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-            "title": "Como fazer um seletor por id via CSS?",
+            "image": "https://phoneky.co.uk/thumbs/screensavers/down/sports/worldcup_xwks2dvf.gif",
+            "title": "Quantos títulos de copa do mundo a seleção brasileira possui?",
             "description": "Essa é pra aquecer",
             "answer": 2,
             "alternatives": [
-                ".elemento",
-                "*elemento",
-                "#elemento",
-                "%elemento"
+                "1",
+                "5",
+                "6",
+                "4"
             ]
         },
         {
-            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-            "title": "Como fazer um background gradiente com css?",
-            "description": "Faz tempo em haha",
+            "image": "https://1.bp.blogspot.com/-RmswUXyrD-w/V707RpfTb6I/AAAAAAAAWFY/M2IImuFhtukOxtYR3IbbXec-E2rGIuX-wCLcB/s1600/Olimpiadas%2BAneis%2BOlimpicos%2BSexto%2BAnel%2Bcampanha.gif",
+            "title": "Nas olimpíadas, a seleção possui quantas medalhas de ouro?",
+            "description": "Essa é fácil",
             "answer": 0,
             "alternatives": [
-                "background: linear-gradient(#e66465, #9198e5);",
-                "background: gradient(#e66465, #9198e5);"
+                "1",
+                "0",
+                "2"
             ]
         }
     ],
