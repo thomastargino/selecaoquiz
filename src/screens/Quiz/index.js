@@ -7,6 +7,7 @@ import QuizLogo from '../../components/QuizLogo';
 import QuizBackground from '../../components/QuizBackground';
 import QuizContainer from '../../components/QuizContainer';
 import AlternativesForm from '../../components/AlternativesForm';
+import Loading from '../../components/Loading';
 import Button from '../../components/Button';
 import BackLinkArrow from '../../components/BackLinkArrow';
 
@@ -66,7 +67,7 @@ function LoadingWidget() {
           className="lottie-container basic"
           config={{ animationData: loadingAnimation, loop: true, autoplay: true }}
         /> */}
-        teste
+        <Loading />
       </Widget.Content>
     </Widget>
   );
